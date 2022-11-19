@@ -1,0 +1,8 @@
+add
+commit 
+add => 暫存區
+新增內容 => 工作目錄
+
+git 管理的是「動作」
+
+git status 是察看狀態
