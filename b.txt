@@ -4,4 +4,4 @@
 
 
 login
-register
+regist
